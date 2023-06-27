@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Clone the repository, open it in a code editor and run
 
+In the root directory create a .env file and add your API Key from https://openweathermap.org/
+NEXT_PUBLIC_WEATHER_KEY=<Your API Key>
+
 ```bash 
 yarn install
 ```
